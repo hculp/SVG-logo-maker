@@ -38,7 +38,7 @@
   There are example generated SVG logos in the [examples folder](./examples/). Here is an example image of a logo.svg as well.
   ![example](./images/demo-svg.png)
   
-  Here is a link to a demo [video]() using the command line utility.
+  Here is a link to a demo [video](https://drive.google.com/file/d/1Jy7d9PpLVBJOkZuHM-Lttn9AM4C9ziUt/view) using the command line utility.
   ## Contribution
 
   Contribution falls under open MIT license.

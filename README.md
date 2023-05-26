@@ -35,7 +35,7 @@
   npm start
   ```
   Follow the prompts till completion. **Then, you'll have your generated a logo.svg!**\
-  There are example SVG logos in the [examples folder](./examples/). Here is an example image of a logo.svg as well.
+  There are example generated SVG logos in the [examples folder](./examples/). Here is an example image of a logo.svg as well.
   ![example](./images/demo-svg.png)
   
   Here is a link to a demo [video]() using the command line utility.
